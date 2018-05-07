@@ -20,9 +20,9 @@
   "generic.days": "{{count}} dias",
   "generic.in-x-days": "em {{count}} dias",
   "generic.tomorrow": "amanhã",
-  "generic.price": "{{price}}ouros",
-  "generic.price-for-quality": "{{price}}ouros ({{quality}})",
-  "generic.price-for-stack": "{{price}}ouros por um acúmulo de {{count}}",
+  "generic.price": "{{price}} ouros",
+  "generic.price-for-quality": "{{price}} ouros ({{quality}})",
+  "generic.price-for-stack": "{{price}} ouros por um acúmulo de {{count}}",
 
   // types
   "type.fruit-tree": "Arvore Frutífera",
@@ -256,7 +256,7 @@
   "npc.can-romance": "É casavel",
   "npc.friendship": "Amizade",
   "npc.talked-today": "Conversou hoje",
-  "npc.gifted-today": "Já presentiou hoje",
+  "npc.gifted-today": "Já presenteou hoje",
   "npc.gifted-this-week": "Presenteou essa semana",
   "npc.loves-gifts": "Presentes que ama",
   "npc.likes-gifts": "Presentes que gosta",
@@ -284,7 +284,7 @@
 
   // player lookup labels
   "player.farm-name": "Nome da fazenda",
-  "player.favorite-thing": "Coisa Favorida",
+  "player.favorite-thing": "Coisa Favorita",
   "player.gender": "Genero",
   "player.spouse": "Esposa(o)",
   "player.combat-skill": "Combate",
